@@ -1,6 +1,6 @@
-package CS102.Lab.Week6;
+package CS102.Lab.Week6.Lab5;
 
-    class Cleaning extends Product {
+class Cleaning extends Product {
         private String brand;
 
         public Cleaning(String brand) {

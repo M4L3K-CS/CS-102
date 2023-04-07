@@ -1,4 +1,4 @@
-package CS102.Lab.Week5.MainClass;
+package CS102.Lab.Week4.Lab3;
 
 public class Book {
     private String title;;
@@ -37,9 +37,11 @@ public class Book {
     public void setIsbn(int isbn) {
         this.isbn = isbn;
     }
+
     public void loan() {
         onloan = true;
     }
+
     public void returnBook() {
         onloan = false;
     }

@@ -1,4 +1,4 @@
-package CS102.Lab.Week6;
+package CS102.Lab.Week6.Lab5;
 
 public class Vegetable extends Food {
     private boolean organic;

@@ -1,4 +1,4 @@
-package CS102.Lab.Week1.Object;
+package CS102.Lab.Week1.Lab0;
 
 public class EmployeeTest {
     public static void main(String[] args) {

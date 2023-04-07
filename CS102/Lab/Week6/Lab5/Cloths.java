@@ -1,4 +1,4 @@
-package CS102.Lab.Week6;
+package CS102.Lab.Week6.Lab5;
 
 class Cloths extends Product {
     private String color;
