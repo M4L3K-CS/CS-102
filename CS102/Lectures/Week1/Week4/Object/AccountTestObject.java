@@ -1,4 +1,4 @@
-package CS102.Lectures.Week1.Object;
+package CS102.Lectures.Week1.Week4.Object;
 
 public class AccountTestObject {
     public static void main(String[] args) {

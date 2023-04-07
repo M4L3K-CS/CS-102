@@ -1,4 +1,4 @@
-package CS102.Lectures.Week1;
+package CS102.Lectures.Week1.Constructor;
 
 public class AccountTest {
     public static void main(String[] args) {
