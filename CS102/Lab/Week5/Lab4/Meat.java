@@ -1,4 +1,4 @@
-package CS102.Lab.Week6.Lab5;
+package CS102.Lab.Week5.Lab4;
 
 public class Meat extends Food {
     private String quality;

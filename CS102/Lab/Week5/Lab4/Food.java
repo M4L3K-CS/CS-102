@@ -1,4 +1,4 @@
-package CS102.Lab.Week6.Lab5;
+package CS102.Lab.Week5.Lab4;
 
 class Food extends Product{
     private double kgs;

@@ -1,4 +1,4 @@
-package CS102.Lectures.Week1.Constructor;
+package CS102.Lectures.Constructor;
 
 public class Account {
     int number;

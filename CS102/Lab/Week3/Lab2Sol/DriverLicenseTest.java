@@ -1,3 +1,4 @@
+package CS102.Lab.Week3.Lab2Sol;
 
 /*
  * author: Meric Oztiryaki
